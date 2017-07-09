@@ -1,5 +1,6 @@
-$color: blue;
+$text-color: blue;
 
 body {
-  background: $color;
+  color: $text-color;
+  font-family: sans-serif;
 }

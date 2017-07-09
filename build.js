@@ -115,7 +115,7 @@ exports = module.exports = __webpack_require__(3)(undefined);
 
 
 // module
-exports.push([module.i, "body {\n  background: blue; }\n", ""]);
+exports.push([module.i, "body {\n  color: blue;\n  font-family: sans-serif; }\n", ""]);
 
 // exports
 
