@@ -1,0 +1,8 @@
+$text-color: blue;
+$background-color: fade-out(coral, 0.9);
+
+body {
+  color: $text-color;
+  font-family: sans-serif;
+  background-color: $background-color;
+}
